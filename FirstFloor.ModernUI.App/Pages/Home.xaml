@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="FirstFloor.ModernUI.App.Pages.Home"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="900" d:DesignWidth="800">
+    <Grid Style="{StaticResource ContentRoot}">
+        <ScrollViewer>
+            <StackPanel >
+                <StackPanel.Resources>
+                    <!--<PathGeometry x:Key="HomeIconData" >F1 M 15.0021,35.0049L 15.0021,33.0046L 15.0021,24.2034L 14.002,25.0035L 12.0017,22.0031L 24.0033,13.0018L 29.004,16.7523L 29.004,14.002L 31.0043,13.502L 31.0043,18.2525L 36.005,22.0031L 34.0047,25.0035L 33.0046,24.2034L 33.0046,33.0046L 33.0046,35.0049L 15.0021,35.0049 Z M 24.0033,17.0024L 17.0024,22.6032L 17.0024,33.0046L 21.0029,33.0046L 21.0029,27.0038L 27.0038,27.0038L 27.0038,33.0046L 31.0043,33.0046L 31.0043,22.6032L 24.0033,17.0024 Z</PathGeometry>
+                    <PathGeometry x:Key="RefreshIconData">F1 M 24,13C 27.1521,13 29.9945,14.3258 32,16.4501L 32,11L 35,14L 35,22L 27,22L 24,19L 29.5903,19C 28.217,17.4656 26.2212,16.5 24,16.5C 20.1969,16.5 17.055,19.3306 16.5661,23L 13.0448,23C 13.5501,17.3935 18.262,13 24,13 Z M 24,31.5C 27.8031,31.5 30.945,28.6694 31.4339,25L 34.9552,25C 34.4499,30.6065 29.738,35 24,35C 20.8479,35 18.0055,33.6742 16,31.5499L 16,37L 13,34L 13,26L 21,26L 24,29L 18.4097,29C 19.783,30.5344 21.7787,31.5 24,31.5 Z</PathGeometry>-->
+                </StackPanel.Resources>
+                <StackPanel HorizontalAlignment="Right">
+                    <Button  BorderThickness="0" Background="Transparent">
+                        <StackPanel Orientation="Horizontal">
+                            <fa:FontAwesome Icon="Language" FontSize="20"/>
+                            <TextBlock HorizontalAlignment="Center" Text="English / Italian" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+                <StackPanel VerticalAlignment="Center" Orientation="Vertical" Margin="0,100,0,0">
+                    <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="0,0,0,100">
+                        <Button Name="btn1Main" Width="300" Height="300" Margin="0,0,50,0" BorderThickness="0" PreviewMouseDown="Button_PreviewMouseDown" PreviewMouseUp="Button_PreviewMouseUp"
+                                Command="mui:LinkCommands.NavigateLink" CommandParameter="/Content/Book_S1.xaml">
+                            <StackPanel >
+                                <fa:FontAwesome Name="BtnIcn1" Icon="Calendar" FontSize="110"/>
+                                <TextBlock Name="BtnTxt1" HorizontalAlignment="Center" Text="RENT BICYCLE" Style="{StaticResource Heading1}" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Button>
+                        <Button Name="btn2Main" Width="300" Height="300" Margin="50,0,0,0" BorderThickness="0" PreviewMouseDown="Button_PreviewMouseDown" PreviewMouseUp="Button_PreviewMouseUp"
+                                Command="mui:LinkCommands.NavigateLink" >
+
+                            <StackPanel>
+                                <fa:FontAwesome Name="BtnIcn2" Icon="Road" FontSize="110"/>
+                                <TextBlock Name="BtnTxt2" HorizontalAlignment="Center" Text="PARKING" Style="{StaticResource Heading1}" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                    <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" >
+                        <Button Name="btn3Main" Width="300" Height="300" Margin="0,0,50,0" BorderThickness="0" PreviewMouseDown="Button_PreviewMouseDown" PreviewMouseUp="Button_PreviewMouseUp"
+                                Command="mui:LinkCommands.NavigateLink" CommandParameter="/Content/Pickup_S1.xaml">
+                            <StackPanel>
+                                <fa:FontAwesome Name="BtnIcn3" Icon="Bicycle" FontSize="110"/>
+                                <TextBlock Name="BtnTxt3" HorizontalAlignment="Center" Text="PICKUP / RETURN" Style="{StaticResource Heading1}" Margin="0,10,0,0"/>
+                            </StackPanel>
+                         </Button>
+                        <Button Name="btn4Main" Width="300" Height="300" Margin="50,0,0,0" BorderThickness="0" PreviewMouseDown="Button_PreviewMouseDown" PreviewMouseUp="Button_PreviewMouseUp">
+                            <StackPanel>
+                                <fa:FontAwesome Name="BtnIcn4" Icon="Gear" FontSize="110" Spin="True" SpinDuration="10"/>
+                                <TextBlock Name="BtnTxt4" HorizontalAlignment="Center" Text="SERVICE" Style="{StaticResource Heading1}" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

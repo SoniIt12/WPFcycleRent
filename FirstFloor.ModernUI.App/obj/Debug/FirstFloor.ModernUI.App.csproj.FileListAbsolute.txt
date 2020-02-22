@@ -1,0 +1,399 @@
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe.config
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.pdb
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.cache
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.lref
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.BingImage.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.g.resources
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.Properties.Resources.resources
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csproj.GenerateResource.Cache
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.exe
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.pdb
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.dll
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.xml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csprojResolveAssemblyReference.cache
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.g.cs
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.baml
+C:\Users\sumit\Downloads\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe.config
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.pdb
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.DirectShow.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.DirectShow.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.pdb
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.pdb
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.xml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Love.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.cache
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.lref
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.BingImage.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.g.resources
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.Properties.Resources.resources
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csproj.GenerateResource.cache
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.exe
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.pdb
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderPrint.g.cs
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderPrint.baml
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csprojResolveAssemblyReference.cache
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\Newtonsoft.Json.dll
+D:\Sumit\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\Newtonsoft.Json.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe.config
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.exe
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\ModernUIDemo.pdb
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.DirectShow.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\Newtonsoft.Json.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.dll
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\AForge.Video.DirectShow.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FirstFloor.ModernUI.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\FontAwesome.WPF.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\Newtonsoft.Json.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.pdb
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.pdb
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\bin\Debug\zxing.presentation.xml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csprojAssemblyReference.cache
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.Love.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderPrint.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderView.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\HostRule.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Pickup_S1.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\showRule.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S5.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SearchOrder.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S4.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S3.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderIntro.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernFrame.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernMenu.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernProgressRing.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernWindow.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S1.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\Book_S2.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesProgressBar.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSlider.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDate.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\AdminAccess.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\CancelNavigateSample.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\ErrorSample.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ModernFrame\Sample.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\DpiAwareness.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Home.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\AdminHome.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsModern.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernBBCodeBlock.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernButton.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsModernDialog.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ControlsStyles.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Introduction.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesButton.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesItemsControl.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesText.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutWireframe.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutTab.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsum.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\SettingsAppearance.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Settings.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\App.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.cache
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo_MarkupCompile.lref
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Assets\ModernUI.BingImage.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\OrderPrint.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ContentLoaderImages.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesDataGrid.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\ControlsStylesSampleForm.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\MainWindow.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\ContentLoader.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\Navigation.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutBasic.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutList.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Pages\LayoutSplit.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumList.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\Content\LoremIpsumSplit.baml
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.g.resources
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.Properties.Resources.resources
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csproj.GenerateResource.cache
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\FirstFloor.ModernUI.App.csproj.CopyComplete
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.exe
+D:\Frlncing_Modern_UI_API\FirstFloor.ModernUI (1)\FirstFloor.ModernUI\FirstFloor.ModernUI.App\obj\Debug\ModernUIDemo.pdb

@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="FirstFloor.ModernUI.App.Content.AdminAccess"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="160" d:DesignWidth="300">
+    <ScrollViewer>
+        <StackPanel MinWidth="200">
+            <TextBlock Text="ADMIN LOGIN" Style="{StaticResource Heading2}" HorizontalAlignment="Center"/>
+            <PasswordBox Name="textPass" Width="200" Margin="0,20" FontSize="16" PasswordChanged="textPass_PasswordChanged" />
+            <Button Name="btnLogin" Width="200" Height="50" Click="Button_Click" Content="LOGIN" FontSize="20" FontWeight="Bold" />
+            <TextBlock Text="NOTE: password: 1234" HorizontalAlignment="Left"/>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>
